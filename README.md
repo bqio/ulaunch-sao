@@ -6,5 +6,18 @@
 * created using [uLaunch Theme Generator](https://bqio.ru/ulaunch-theme-generator)
 
 # Screenshots
-![Main menu](screenshots/2020010222434900-2B962D4D8757B83A365B36F9DBA36413.jpg)
-![Quick menu](screenshots/2020010222435200-2B962D4D8757B83A365B36F9DBA36413.jpg)
+
+## Main menu
+![Main menu](screenshots/MainMenu.jpg)
+
+## Quick menu
+![Quick menu](screenshots/QuickMenu.jpg)
+
+## Settings menu
+![Settings menu](screenshots/SettingsMenu.jpg)
+
+## Languages menu
+![Languages menu](screenshots/LanguagesMenu.jpg)
+
+## Themes menu
+![Themes menu](screenshots/ThemesMenu.jpg)
