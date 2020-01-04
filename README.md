@@ -1,5 +1,10 @@
-# Sword Art Online [uLaunch]
-[Download](https://github.com/bqio/ulaunch-sao/releases)
+<p align="center">
+  <img width="100" height="100" src="Icon.png">
+</p>
+<h1 align="center">Sword Art Online [uLaunch]</h1>
+<p align="center">
+  <a href="https://github.com/bqio/ulaunch-sao/releases">Download</a>
+</p>
 
 # Thanks
 * icons by <a target="_blank" href="https://icons8.com">Icons8</a>
