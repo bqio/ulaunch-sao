@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Sword Art Online [uLaunch]</h1>
 <p align="center">
-  <a href="https://github.com/bqio/ulaunch-sao/releases">Download</a>
+  <a href="https://github.com/bqio/ulaunch-sao/releases"><img src="https://img.shields.io/github/downloads/bqio/ulaunch-sao/total.svg" alt="NPM downloads"</a>
 </p>
 
 # Thanks
